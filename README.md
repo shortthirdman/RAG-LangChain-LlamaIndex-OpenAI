@@ -1,6 +1,13 @@
 # RAG using LangChain, LlamaIndex, and OpenAI
 
-Retrieval-Augmented Generation (RAG) using `LangChain`, `LlamaIndex` and `OpenAI`
+Retrieval-Augmented Generation (RAG) using [`LangChain`](https://www.langchain.com/), [`LlamaIndex`](https://www.llamaindex.ai/) and [`OpenAI`](https://openai.com/)
+
+![GitHub License](https://img.shields.io/github/license/shortthirdman/RAG-LangChain-LlamaIndex-OpenAI)
+![GitHub language count](https://img.shields.io/github/languages/count/shortthirdman/RAG-LangChain-LlamaIndex-OpenAI)
+![GitHub top language](https://img.shields.io/github/languages/top/shortthirdman/RAG-LangChain-LlamaIndex-OpenAI)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/shortthirdman/RAG-LangChain-LlamaIndex-OpenAI)
+
+
 
 ## Summary
 
